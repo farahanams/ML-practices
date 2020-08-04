@@ -1,7 +1,9 @@
-# Titanic Kaggle Competition trial
+# Machine Learning practices
 
-### By: Farahana Suhaimi
-### Date: 4/8/2020
+Refreshing my ML skills once again in conquest to land a job.
+
 ### First commit: 4/8/2020
 
-This is the first trial for ML practices. Kaggle page helps me find this first sweet practice.
+In this quest, I'll try to be active for at least 4 days a week by completing various practices. I started with Kaggle competition for survival rate in Titanic. 
+
+Thinking of doing more than 5 practices to freshen up my ML skills. Will try to give my own views on each of the practices. 
